@@ -1,8 +1,8 @@
-CC=C:\Users\ufaro\avr-gcc-12.1.0-x64-windows\avr-gcc-12.1.0-x64-windows\bin\avr-gcc
-LD=C:\Users\ufaro\avr-gcc-12.1.0-x64-windows\avr-gcc-12.1.0-x64-windows\bin\avr-ld
-OBJCOPY="C:\Users\ufaro\avr-gcc-12.1.0-x64-windows\avr-gcc-12.1.0-x64-windows\bin\avr-objcopy"
-OBJDUMP="C:\Users\ufaro\avr-gcc-12.1.0-x64-windows\avr-gcc-12.1.0-x64-windows\bin\avr-objdump"
-AVRSIZE="C:\Users\ufaro\avr-gcc-12.1.0-x64-windows\avr-gcc-12.1.0-x64-windows\bin\avr-size"
+CC=C:\avr\avr-gcc-12.1.0-x86-windows\bin\avr-gcc
+LD=C:\avr\avr-gcc-12.1.0-x86-windows\bin\avr-ld
+OBJCOPY="C:\avr\avr-gcc-12.1.0-x86-windows\bin\avr-objcopy"
+OBJDUMP="C:\avr\avr-gcc-12.1.0-x86-windows\bin\avr-objdump"
+AVRSIZE="C:\avr\avr-gcc-12.1.0-x86-windows\bin\avr-size"
 OBJISP="C:\avr\bin\avrdude"
 MCU=atmega328p
 CFLAGS=-Wall -Wextra  -Wundef -pedantic \
