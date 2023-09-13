@@ -5,6 +5,7 @@
 #include <util/delay.h>
 #include <time.h>
 #include <stdlib.h>
+#include "joystick.h"
 #include "uart.h"
 #include "randomPlacement.h"
 
