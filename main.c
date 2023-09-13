@@ -1,6 +1,5 @@
 #include "max72xx.h"
 #include "analogRead.h"
-#include "joystick.h"
 #include <stdio.h>
 #include <string.h>
 #include <util/delay.h>

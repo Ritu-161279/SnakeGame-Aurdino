@@ -2,7 +2,7 @@
 #define __MAX72xx_H
 
 #include <avr/io.h>
-
+ 
 #define MAX7219_CS PB2  // CS,  pin 4 on the MAX7219 Board
 #define MAX7219_DIN PB3 // DIN, pin 3 on the MAX7219 Board
 #define MAX7219_CLK PB5 // CLK, pin 5 on the MAX7219 Board
